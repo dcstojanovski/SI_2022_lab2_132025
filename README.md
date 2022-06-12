@@ -7,3 +7,4 @@ Ime i prezime: Darko Stojanovski Indeks: 132025
 
 Тест случаи според Every Branch критериумот
 
+
